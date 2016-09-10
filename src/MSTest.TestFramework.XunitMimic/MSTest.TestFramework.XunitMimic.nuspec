@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MSTest.TestFramework.XunitMimic</id>
+    <version>$version$</version>
+    <title>Easy transition from xUnit.net to MSTest2.</title>
+    <authors>frblondin</authors>
+    <owners>frblondin</owners>
+    <licenseUrl>https://github.com/frblondin/MSTest.TestFramework.XunitMimic/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/frblondin/MSTest.TestFramework.XunitMimic</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds similar namespaces, types, attributes, and assertions as Xunit for easily transitioning from Xunit to MSTest.</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags>MSTest TestFramework Microsoft Unittest Xunit</tags>
+  </metadata>
+  <files>
+	<file src="bin\$configuration$\MSTest.TestFramework.XunitMimic.dll" target="lib\net451\" />
+  </files>
+</package>
